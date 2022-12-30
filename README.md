@@ -1,2 +1,1 @@
 # Stock-System
-# Stock-System
